@@ -17,7 +17,6 @@ public class Iphone implements Browser, PlayerMusic, Telephone {
 
     @Override
     public void call() {
-
         System.out.println("Ligando...");
 
     }
@@ -30,14 +29,12 @@ public class Iphone implements Browser, PlayerMusic, Telephone {
 
     @Override
     public void startVoiceMail() {
-
         System.out.println("Iniciando mensagem de voz!");
 
     }
 
     @Override
     public void playMusic() {
-
         System.out.println("Tocando música!");
 
     }
