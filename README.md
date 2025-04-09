@@ -1,6 +1,6 @@
-# Desafio do bootcamp Dio para diagramação de um iphone.
+# Desafio do bootcamp Bradesco_Dio para diagramação de um iphone.
 
- Modelagem e Diagramação de Funcionalidades do iPhone
+## Modelagem e Diagramação de Funcionalidades do iPhone
 
 ## Visão Geral
 
